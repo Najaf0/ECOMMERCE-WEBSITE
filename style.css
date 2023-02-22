@@ -1,0 +1,172 @@
+/* ---------------NavBar--------------- */
+/* .nav-bar {
+    height: 1000px;
+    width: auto;
+    background-color: red;
+} */
+.navbar-style {
+    background-color: peachpuff;
+    height: 90px;
+    margin: 2px;
+}
+
+.logo {
+    font-weight: 700;
+    color: #36454F;
+
+}
+
+.nav-ul {
+    font-size: 14px;
+    margin-left: 80px;
+    font-weight: 300;
+    color: #36454F;
+}
+
+.input-style {
+    height: 28px;
+}
+
+.btn-1 {
+    width: 68px;
+    height: 28px;
+    border-color: #36454F;
+}
+
+/* -------------------Hero------------------ */
+/* .hero-sec {
+    height: 60px;
+    width: 1090px;
+} */
+.hero-img {
+    height: 400px;
+    width: 1090px;
+}
+
+/* .text-1{
+    margin-top: -10px;
+    position: abslute;
+} */
+.text-div {
+    margin-top: -120px;
+    position: absolute;
+    color: white;
+    margin-left: 30px;
+    font-weight: 900;
+    color: #36454F;
+    /* font-size: 20px; */
+}
+
+.btn-2 {
+    margin-left: 150px;
+    margin-top: -90px;
+    width: 100px;
+}
+
+/* -------------GRID_------------- */
+.grid-col {
+    padding: 120px;
+    font-weight: 800;
+}
+
+/* ----------------Variety------------- */
+/* .var-col{
+    height: 100px;
+    width: 200px;
+} */
+.var-img {
+    height: 360px;
+    width: 250px;
+}
+
+.var-sec {
+    background-color: peachpuff;
+}
+
+.var-text-1 {
+    color: #36454F;
+    margin-left: 400px;
+    font-weight: 700;
+}
+
+.var-text {
+    color: #36454F;
+    margin-left: 300px;
+}
+
+.var-text-2 {
+    color: #36454F;
+}
+
+/* ---------------Slides------------ */
+/* .slide-sec{
+    height: 400px;
+    width: 1090px; 
+} */
+.slide-img {
+    height: 380px;
+    width: 1070px;
+    padding: 5px;
+}
+
+.text-2 {
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: -7px;
+    /* position: absolute; */
+    margin-left: 7px;
+    color: white;
+}
+
+.text-3 {
+    margin-top: 340px;
+    position: absolute;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.text-5{
+    margin-top: 200px;
+    /* position: absolute; */
+}
+.text-4{
+    margin-top: 130px;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 100px;
+}
+/* ----------------Arrivals-------------- */
+.img-1{
+    height: 255px;
+    width: 291px;
+}
+.text-6{
+    margin-top: 99px;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    margin-left: 67px;
+    font-weight: 700;
+}
+.text-7{
+    margin-top: 99px;
+    font-size: 27px;
+    color: white;
+    position: absolute;
+    margin-left: 129px;
+    font-weight: 700;
+}
+
+/* -------------fOOTER------------- */
+.footer-sec{
+    background-color: peachpuff;
+    color: #36454F;
+}
+.link-sec{
+    color: #36454F;
+}
+/* ------------sHOP----------- */
+.shop-sec{
+background-color: peachpuff;
+margin: 2px;
+}
